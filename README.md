@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RawnokRahman
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Cyber Security
+- 🌱 I’m currently learning Cloud Engineering
 - 💞️ I’m looking to collaborate on any Open Source Projucts 
 
 
